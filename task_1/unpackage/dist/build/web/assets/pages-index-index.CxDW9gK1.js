@@ -1,0 +1,1 @@
+import{c as s,w as e,i as a,o,b as r}from"./index-DMZYGDL1.js";import{_ as t}from"./_plugin-vue_export-helper.BCo6x5W8.js";const n=t({},[["render",function(t,n){const d=a;return o(),s(d,{class:"box"},{default:e((()=>[r(" 主页面 ")])),_:1})}],["__scopeId","data-v-05e19d86"]]);export{n as default};

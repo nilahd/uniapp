@@ -1,0 +1,37 @@
+{
+  "hash": "a7e2af8b",
+  "configHash": "c9909ecd",
+  "lockfileHash": "115ab324",
+  "browserHash": "062855db",
+  "optimized": {
+    "file-saver": {
+      "src": "../../../../../node_modules/file-saver/dist/FileSaver.min.js",
+      "file": "file-saver.js",
+      "fileHash": "e67bacd5",
+      "needsInterop": true
+    },
+    "jszip": {
+      "src": "../../../../../node_modules/jszip/dist/jszip.min.js",
+      "file": "jszip.js",
+      "fileHash": "17606f23",
+      "needsInterop": true
+    },
+    "echarts": {
+      "src": "../../../../../node_modules/echarts/index.js",
+      "file": "echarts.js",
+      "fileHash": "457f6fc3",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../../../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "ad9f1cb2",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-34Z2WVG2": {
+      "file": "chunk-34Z2WVG2.js"
+    }
+  }
+}
